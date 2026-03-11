@@ -1,0 +1,39 @@
+{
+  "version": "1.1.0",
+  "release_date": "2026-03-12",
+  "status": "stable",
+  "features": {
+    "syntax_features": 10,
+    "stdlib_modules": 22,
+    "package_manager": true,
+    "database_support": true,
+    "compression_support": true,
+    "config_parsing": true
+  },
+  "improvements": [
+    "新增切片操作语法",
+    "新增函数默认参数",
+    "新增列表推导式",
+    "新增字典推导式",
+    "新增集合类型",
+    "新增三元表达式",
+    "新增解构赋值",
+    "新增上下文管理器",
+    "新增生成器",
+    "新增枚举类型",
+    "新增包管理器",
+    "新增数据库模块",
+    "新增压缩解压模块",
+    "新增配置文件解析",
+    "新增加密模块",
+    "新增测试框架",
+    "新增CSV处理",
+    "新增正则表达式",
+    "新增字符串方法"
+  ],
+  "compatibility": {
+    "rust_version": "2021",
+    "platforms": ["windows", "linux", "macos"]
+  },
+  "repository": "https://github.com/1730064394/---"
+}
